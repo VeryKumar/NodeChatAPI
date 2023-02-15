@@ -16,6 +16,7 @@
     "url": "https://github.com/VeryKumar/NodeChatAPI/issues"
   },
   "homepage": "https://github.com/VeryKumar/NodeChatAPI#readme",
+  "type": "module",
   "dependencies": {
     "express": "^4.18.2"
   }
